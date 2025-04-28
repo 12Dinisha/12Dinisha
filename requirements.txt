@@ -55,7 +55,7 @@ community==1.0.0b1
 confection==0.1.5
 cons==0.4.6
 contourpy==1.3.1
-cryptography==43.0.3
+cryptography==44.0.1
 cuda-python==12.2.1
 cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.10.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 cufflinks==0.17.3
@@ -164,7 +164,7 @@ gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
 gym-notices==0.0.8
-h11==0.14.0
+h11==0.16.0
 h5netcdf==1.4.1
 h5py==3.12.1
 holidays==0.63
@@ -197,7 +197,7 @@ ipyfilechooser==0.6.0
 ipykernel==5.5.6
 ipyleaflet==0.19.2
 ipyparallel==8.8.0
-ipython==7.34.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
 ipytree==0.2.2
@@ -210,7 +210,7 @@ jaxlib==0.4.33
 jeepney==0.7.1
 jellyfish==1.1.0
 jieba==0.42.1
-Jinja2==3.1.4
+Jinja2==3.1.6
 jiter==0.8.2
 joblib==1.4.2
 jsonpatch==1.33
@@ -221,13 +221,13 @@ jsonschema-specifications==2024.10.1
 jupyter-client==6.1.12
 jupyter-console==6.1.0
 jupyter-leaflet==0.19.2
-jupyter-server==1.24.0
+jupyter-server==2.11.2
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.3.5
-keras==3.5.0
+keras==3.9.0
 keyring==23.5.0
 kiwisolver==1.4.7
 langchain==0.3.12
@@ -243,7 +243,7 @@ lazy_loader==0.4
 libclang==18.1.1
 libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-24.10.1-py3-none-manylinux_2_28_x86_64.whl
 librosa==0.10.2.post1
-lightgbm==4.5.0
+lightgbm==4.6.0
 linkify-it-py==2.0.3
 llvmlite==0.43.0
 locket==1.0.0
@@ -500,11 +500,11 @@ torch @ https://download.pytorch.org/whl/cu121_full/torch-2.5.1%2Bcu121-cp310-cp
 torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp310-cp310-linux_x86_64.whl
 torchsummary==1.5.1
 torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp310-cp310-linux_x86_64.whl
-tornado==6.3.3
+tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.47.1
+transformers==4.48.0
 tweepy==4.14.0
 typeguard==4.4.1
 typer==0.15.1
